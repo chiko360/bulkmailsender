@@ -1,0 +1,8 @@
+#put here the mails you want to send to
+
+chikotech1@gmail.com
+chikotech1@gmail.com
+chikotech1@gmail.com
+chikotech1@gmail.com
+chikotech1@gmail.com
+chikotech1@gmail.com
